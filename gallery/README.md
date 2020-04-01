@@ -4,8 +4,8 @@
 ## Getting Started
 
 This project is a simple images gallery.
-Run the project you need:
+For running this project:
 ```
-  cd path/to/flutter/app
+  cd gallery/
   flutter run
 ```
