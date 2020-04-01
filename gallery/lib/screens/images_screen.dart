@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 
-import '../widjets/image_item.dart';
+import '../widgets/image_item.dart';
 
 
 class ImagesScreen extends StatefulWidget {
